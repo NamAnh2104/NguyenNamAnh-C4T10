@@ -1,0 +1,1 @@
+print("i am from s2.2")
